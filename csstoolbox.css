@@ -1,0 +1,10 @@
+/* Styling a single element or group of elements using their element type */
+
+ELEMENTTYPE {
+	PROPERTYNAME: VALUE;
+}
+
+/* Styling a single element using its ID */
+#ID {
+	PROPERTYNAME: VALUE;
+}
