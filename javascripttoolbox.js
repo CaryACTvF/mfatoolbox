@@ -74,7 +74,7 @@ MathJax.Hub.Config({
 </script>
 `
 // To rerun the MathJax parsing of the page:
-MathJax.Hub.Queue(["Typeset",MathJax.Hub,problem]);
+MathJax.Hub.Queue(["Typeset",MathJax.Hub,problemText]);
 
 // HTML for Mobile
 `
